@@ -1,0 +1,13 @@
+package nl.orhun;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FinagleClientsApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
